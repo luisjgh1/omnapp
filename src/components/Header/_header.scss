@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  z-index: 100;
+}
+
+.header__blue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  height: 50px;
+  width: 100%;
+  color: white;
+  font-size: 12px;
+  background-color: #16376b;
+
+  .back {
+    margin-left: 22px;
+  }
+
+  .login-btn {
+    border: 0;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    font-size: 1.17em;
+    font-weight: bold
+  }
+  img {
+    height: 30px;
+    margin-right: 13px;
+  }
+}
+
+.header__orange {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 12px;
+  height: 40px;
+  background-image: linear-gradient(to right, #de9e41, #c95e5a);
+}

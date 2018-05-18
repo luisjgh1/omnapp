@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2126.437 2371.128 26.947 34.624">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.499" x2="0.999" y2="0.499" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcae3d"/>
+      <stop offset="1" stop-color="#c95e5a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_225" data-name="Group 225" transform="translate(2126.437 2371.128)">
+    <path id="Path_11" data-name="Path 11" class="cls-1" d="M32.247,70.4c0,10.839-12.194,20.774-12.194,20.774a2.039,2.039,0,0,1-2.559,0S5.3,81.237,5.3,70.4a13.473,13.473,0,0,1,26.947,0Z" transform="translate(-5.3 -57)"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(6.172 7.376)">
+      <path id="Path_12" data-name="Path 12" class="cls-2" d="M9.4,69.276,16.927,61.9,24,68.975" transform="translate(-9.4 -61.9)"/>
+      <line id="Line_1" data-name="Line 1" class="cls-2" x1="0.151" y1="12.946" transform="translate(7.376 1.054)"/>
+    </g>
+  </g>
+</svg>
